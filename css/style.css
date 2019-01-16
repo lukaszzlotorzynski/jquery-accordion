@@ -1,0 +1,19 @@
+.accordion {
+    width: 50%;
+
+}
+
+h2 {
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 0 0 10px 0;
+    
+}
+
+p {
+    margin: 0;
+    display: none;
+    margin: 0 0 5px 0;
+}
